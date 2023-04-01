@@ -1,0 +1,78 @@
+
+body{
+  background-color: #DDE6EA;
+}
+
+.column{
+  background-color: #40697B;
+}
+
+.has-same-height .card {
+  height: 320px;
+  overflow: hidden;
+}
+
+.card-content h3 {
+  text-align: center;
+}
+
+.table-profile td,
+th {
+  border: none !important;
+}
+
+.table-profile td:first-of-type {
+  font-weight: bold;
+}
+
+.skills-content .media {
+  margin: 0 !important;
+  padding: 4px !important;
+  border: 0 !important;
+}
+
+.skills-content .progress {
+  height: 4px !important;
+}
+
+.custom-tags {
+  text-align: center !important;
+  display: block;
+}
+
+.container .portfolio-container .column{
+  background-color: #FCF9FC;
+}
+
+.portfolio-container .card {
+  margin-bottom: 2em;
+}
+
+.section-heading {
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 6em;
+}
+
+.footer{
+  background-color: #437785;
+  text-color: white;
+}
+
+.footer p{
+  text-color: white;
+}
+
+.phone {
+  color: white;
+  text-align: center;
+  float: center;
+  margin-left: 600px;
+}
+
+.email {
+  color: white;
+  text-align: center;
+  float: center;
+  margin-left: 560px;
+}
