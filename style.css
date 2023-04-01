@@ -1,3 +1,12 @@
+
+body{
+  background-color: #DDE6EA;
+}
+
+.column{
+  background-color: #40697B;
+}
+
 .has-same-height .card {
   height: 320px;
   overflow: hidden;
@@ -31,6 +40,10 @@ th {
   display: block;
 }
 
+.container .portfolio-container .column{
+  background-color: #FCF9FC;
+}
+
 .portfolio-container .card {
   margin-bottom: 2em;
 }
@@ -39,4 +52,9 @@ th {
   text-align: center;
   margin-top: 1em;
   margin-bottom: 6em;
+}
+
+.footer{
+  background-color: #437785;
+  text-color: white;
 }
