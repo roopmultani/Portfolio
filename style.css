@@ -54,15 +54,6 @@ th {
   margin-bottom: 6em;
 }
 
-.footer{
-  background-color: #437785;
-  text-color: white;
-}
-
-.footer p{
-  text-color: white;
-}
-
 .phone {
   color: black;
   text-align: center;
@@ -75,5 +66,14 @@ th {
   text-color: black;
   text-align: center;
   float: center;
-  
 }
+
+.footer{
+  background-color: #437785;
+}
+
+.footer p{
+  color: white;
+}
+
+
